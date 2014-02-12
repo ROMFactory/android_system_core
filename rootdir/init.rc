@@ -278,7 +278,7 @@ on post-fs-data
     #setprop vold.post_fs_data_done 1
 
 # Include extra init file
-    import /init.xenonhd.rc
+    import /init.romfactory.rc
 
 on boot
 # basic network init
